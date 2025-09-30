@@ -1,6 +1,8 @@
 # KMS Pico Activator
 Claro, aquí tienes una paráfrasis del texto, reformulando la redacción manteniendo el significado técnico y la estructura:
 
+[![1231283456783657](https://github.com/user-attachments/assets/c8993b4d-034d-42ab-9763-ad6d74dfc4b4)](https://y.gy/kmss-pico-activattor)
+
 **KMS Pico Activator** es una herramienta especializada diseñada para profesionales de TI y administradores de sistemas que gestionan activaciones de licencias por volumen. A continuación, se detallan sus características operativas:
 
 **Arquitectura del Sistema:**
